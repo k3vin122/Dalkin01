@@ -91,18 +91,18 @@
 				
 				<!-- Slider Item -->
 				<div class="owl-item">
-					<div class="home_slider_background" style="background-image:url(images/home_slider.jpg)"></div>
+					<div class="home_slider_background" style="background-image:url(images/home-slider-restaurante.jpg)"></div>
 					<div class="home_slider_content_container">
 						<div class="container">
 							<div class="row">
 								<div class="col">
 									<div class="home_slider_content">
-										<div class="home_slider_item_category trans_200"><a href="category.html" class="trans_200">sport</a></div>
+										<div class="home_slider_item_category trans_200"><a href="category.html" class="trans_200">Destadado</a></div>
 										<div class="home_slider_item_title">
-											<a href="post.html">How Did van Goghâ€™s Turbulent Mind Depict One of the Most Complex Concepts in Physics?</a>
+											<a href="post.html">Ingresen al nuevo local 1</a>
 										</div>
 										<div class="home_slider_item_link">
-											<a href="post.html" class="trans_200">Continue Reading
+											<a href="post.html" class="trans_200">Continuar Leyendo
 												<svg version="1.1" id="link_arrow_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 													 width="19px" height="13px" viewBox="0 0 19 13" enable-background="new 0 0 19 13" xml:space="preserve">
 													<polygon fill="#FFFFFF" points="12.475,0 11.061,0 17.081,6.021 0,6.021 0,7.021 17.038,7.021 11.06,13 12.474,13 18.974,6.5 "/>
@@ -123,43 +123,32 @@
 								<!-- Similar Post -->
 								<div class="col-lg-3 col-md-6 similar_post_col">
 									<div class="similar_post trans_200">
-										<a href="post.html">How Did van Goghâ€™s Turbulent Mind Depict One of the Most</a>
+										<a href="post.html">Informaión Disponible</a>
 									</div>
 								</div>
 
 								<!-- Similar Post -->
 								<div class="col-lg-3 col-md-6 similar_post_col">
 									<div class="similar_post trans_200">
-										<a href="post.html">How Did van Goghâ€™s Turbulent Mind Depict One of the Most</a>
+										<a href="post.html">Informaión Disponible</a>
 									</div>
 								</div>
 
 								<!-- Similar Post -->
 								<div class="col-lg-3 col-md-6 similar_post_col">
 									<div class="similar_post trans_200">
-										<a href="post.html">How Did van Goghâ€™s Turbulent Mind Depict One of the Most</a>
+										<a href="post.html">Informaión Disponible</a>
 									</div>
 								</div>
 
 							</div>
 						</div>
-						
-						<div class="home_slider_next_container">
-							<div class="home_slider_next" style="background-image:url(images/home_slider_next.jpg)">
-								<div class="home_slider_next_background trans_400"></div>
-								<div class="home_slider_next_content trans_400">
-									<div class="home_slider_next_title">next</div>
-									<div class="home_slider_next_link">How Did van Goghâ€™s Turbulent Mind Depict One of the Most Complex Concepts in Physics?</div>
-								</div>
-							</div>
-						</div>
-
 					</div>
 				</div>
 
 				<!-- Slider Item -->
 				<div class="owl-item">
-					<div class="home_slider_background" style="background-image:url(images/home_slider.jpg)"></div>
+					<div class="home_slider_background" style="background-image:url(images/home-slider-restaurante2.jpg)"></div>
 					<div class="home_slider_content_container">
 						<div class="container">
 							<div class="row">
@@ -167,10 +156,10 @@
 									<div class="home_slider_content">
 										<div class="home_slider_item_category trans_200"><a href="category.html" class="trans_200">sport</a></div>
 										<div class="home_slider_item_title">
-											<a href="post.html">How Did van Goghâ€™s Turbulent Mind Depict One of the Most Complex Concepts in Physics?</a>
+											<a href="post.html">Bienvenidos al local 2</a>
 										</div>
 										<div class="home_slider_item_link">
-											<a href="post.html" class="trans_200">Continue Reading
+											<a href="post.html" class="trans_200">Continuar Leyendo
 												<svg version="1.1" id="link_arrow_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 													 width="19px" height="13px" viewBox="0 0 19 13" enable-background="new 0 0 19 13" xml:space="preserve">
 													<polygon fill="#FFFFFF" points="12.475,0 11.061,0 17.081,6.021 0,6.021 0,7.021 17.038,7.021 11.06,13 12.474,13 18.974,6.5 "/>
@@ -191,43 +180,32 @@
 								<!-- Similar Post -->
 								<div class="col-lg-3 col-md-6 similar_post_col">
 									<div class="similar_post trans_200">
-										<a href="post.html">How Did van Goghâ€™s Turbulent Mind Depict One of the Most</a>
+										<a href="post.html">Informaión Disponible</a>
 									</div>
 								</div>
 
 								<!-- Similar Post -->
 								<div class="col-lg-3 col-md-6 similar_post_col">
 									<div class="similar_post trans_200">
-										<a href="post.html">How Did van Goghâ€™s Turbulent Mind Depict One of the Most</a>
+										<a href="post.html">Informaión Disponible</a>
 									</div>
 								</div>
 
 								<!-- Similar Post -->
 								<div class="col-lg-3 col-md-6 similar_post_col">
 									<div class="similar_post trans_200">
-										<a href="post.html">How Did van Goghâ€™s Turbulent Mind Depict One of the Most</a>
+										<a href="post.html">Informaión Disponible</a>
 									</div>
 								</div>
 
 							</div>
 						</div>
-						
-						<div class="home_slider_next_container">
-							<div class="home_slider_next" style="background-image:url(images/home_slider_next.jpg)">
-								<div class="home_slider_next_background trans_400"></div>
-								<div class="home_slider_next_content trans_400">
-									<div class="home_slider_next_title">next</div>
-									<div class="home_slider_next_link">How Did van Goghâ€™s Turbulent Mind Depict One of the Most Complex Concepts in Physics?</div>
-								</div>
-							</div>
-						</div>
-
 					</div>
 				</div>
 
 				<!-- Slider Item -->
 				<div class="owl-item">
-					<div class="home_slider_background" style="background-image:url(images/home_slider.jpg)"></div>
+					<div class="home_slider_background" style="background-image:url(images/home-slider-restaurante.jpg)"></div>
 					<div class="home_slider_content_container">
 						<div class="container">
 							<div class="row">
@@ -235,10 +213,10 @@
 									<div class="home_slider_content">
 										<div class="home_slider_item_category trans_200"><a href="category.html" class="trans_200">sport</a></div>
 										<div class="home_slider_item_title">
-											<a href="post.html">How Did van Goghâ€™s Turbulent Mind Depict One of the Most Complex Concepts in Physics?</a>
+											<a href="post.html">Bienvenidos al local 3</a>
 										</div>
 										<div class="home_slider_item_link">
-											<a href="post.html" class="trans_200">Continue Reading
+											<a href="post.html" class="trans_200">Continuar Leyendo
 												<svg version="1.1" id="link_arrow_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 													 width="19px" height="13px" viewBox="0 0 19 13" enable-background="new 0 0 19 13" xml:space="preserve">
 													<polygon fill="#FFFFFF" points="12.475,0 11.061,0 17.081,6.021 0,6.021 0,7.021 17.038,7.021 11.06,13 12.474,13 18.974,6.5 "/>
@@ -259,37 +237,26 @@
 								<!-- Similar Post -->
 								<div class="col-lg-3 col-md-6 similar_post_col">
 									<div class="similar_post trans_200">
-										<a href="post.html">How Did van Goghâ€™s Turbulent Mind Depict One of the Most</a>
+										<a href="post.html">Información Disponible</a>
 									</div>
 								</div>
 
 								<!-- Similar Post -->
 								<div class="col-lg-3 col-md-6 similar_post_col">
 									<div class="similar_post trans_200">
-										<a href="post.html">How Did van Goghâ€™s Turbulent Mind Depict One of the Most</a>
+										<a href="post.html">Información Disponible</a>
 									</div>
 								</div>
 
 								<!-- Similar Post -->
 								<div class="col-lg-3 col-md-6 similar_post_col">
 									<div class="similar_post trans_200">
-										<a href="post.html">How Did van Goghâ€™s Turbulent Mind Depict One of the Most</a>
+										<a href="post.html">Información Disponible</a>
 									</div>
 								</div>
 
 							</div>
 						</div>
-						
-						<div class="home_slider_next_container">
-							<div class="home_slider_next" style="background-image:url(images/home_slider_next.jpg)">
-								<div class="home_slider_next_background trans_400"></div>
-								<div class="home_slider_next_content trans_400">
-									<div class="home_slider_next_title">next</div>
-									<div class="home_slider_next_link">How Did van Goghâ€™s Turbulent Mind Depict One of the Most Complex Concepts in Physics?</div>
-								</div>
-							</div>
-						</div>
-
 					</div>
 				</div>
 
